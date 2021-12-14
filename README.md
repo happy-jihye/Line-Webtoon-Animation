@@ -6,9 +6,9 @@ On this page below, you can see how much you love the Line Webtoon this year by 
 
 - [2021 LINE WEBTOON YEAR-IN-REVIEW PAGE](https://www.webtoons.com/en/yearend/share/WEBTOON/2135)
 
-| share page | yearend page |
-|--|--|
-| <img src='./asset/page-1.gif?raw=1' width = '700' > | <img src='./asset/page-2.gif?raw=1' width = '700' > | 
+| share page | yearend page | instagram `#2021BarengWEBTOON` |
+|--|--|--|
+| <img src='./asset/page-1.gif?raw=1' width = '700' > | <img src='./asset/page-2.gif?raw=1' width = '700' > |  <img src='./asset/page-3.gif?raw=1' width = '700' > | 
 
 I participated as an AI researcher for animation production in this project. For generating videos with low capacity, high quality, and various motions, I pre-processed webtoon datasets and investigated the talking head model for five months. After preparation, I created animations through the following procedures.
 
