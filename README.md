@@ -4,7 +4,7 @@ Finally, the Line Webtoon Year-in-review has opened ! 🎉
 
 On this page below, you can see how much you love the Line Webtoon this year by personalized statistics; your favorite genres, number of episodes you read, series you started to read this year, the time you spent on webtoon, and more. And characters from the webtoon will dynamically present the result to you.
 
-[2021 LINE WEBTOON YEAR-IN-REVIEW PAGE](https://www.webtoons.com/en/yearend/share/WEBTOON/2135)
+- [2021 LINE WEBTOON YEAR-IN-REVIEW PAGE](https://www.webtoons.com/en/yearend/share/WEBTOON/2135)
 
 | share page | yearend page |
 |--|--|
@@ -21,7 +21,7 @@ I participated as an AI researcher for animation production in this project. For
     - Our team conducted post-processing to make good-quality videos.
 
 
-**Result Example**
+## Example of the result.
 
 We produced animations for 76 works. The following results are some of the samples.
 
@@ -32,3 +32,8 @@ We produced animations for 76 works. The following results are some of the sampl
 
 
 Unfortunately, the development team will not disclose the detailed process due to security issues. Line Webtoon Company is doing various research using AI, so please show a lot of interest!
+
+
+---
+
+- COMPANY: [LINE WEBTOON](https://www.webtoons.com/en/)
