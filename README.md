@@ -8,7 +8,7 @@ On this page below, you can see how much you love the Line Webtoon this year by 
 
 | share page | yearend page |
 |--|--|
-| <img src='./asset/page-1.gif?raw=1' width = '700' > | <img src='./asset/page-2.gif?raw=1' width = '700' > | 
+| <img src='./asset/page-1.gif?raw=1' width = '400' > | <img src='./asset/page-2.gif?raw=1' width = '400' > | 
 
 I participated as an AI researcher for animation production in this project. For generating videos with low capacity, high quality, and various motions, I pre-processed webtoon datasets and investigated the talking head model for five months. After preparation, I created animations through the following procedures.
 
@@ -25,10 +25,10 @@ I participated as an AI researcher for animation production in this project. For
 
 We produced animations for 76 works. The following results are some of the samples.
 
-| <img src='./asset/602.gif?raw=1' width = '700' > |  <img src='./asset/1320.gif?raw=1' width = '700' > |  <img src='./asset/1468.gif?raw=1' width = '700' > | 
+| <img src='./asset/602.gif?raw=1' width = '250' > |  <img src='./asset/1320.gif?raw=1' width = '250' > |  <img src='./asset/1468.gif?raw=1' width = '250' > | 
 |--|--|--|
-| <img src='./asset/1937.gif?raw=1' width = '700' > |  <img src='./asset/2534.gif?raw=1' width = '700' > |  <img src='./asset/2177.gif?raw=1' width = '700' > | 
-| <img src='./asset/2175.gif?raw=1' width = '700' > |  <img src='./asset/2448.gif?raw=1' width = '700' > |  <img src='./asset/2803.gif?raw=1' width = '700' > | 
+| <img src='./asset/1937.gif?raw=1' width = '250' > |  <img src='./asset/2534.gif?raw=1' width = '250' > |  <img src='./asset/2177.gif?raw=1' width = '250' > | 
+| <img src='./asset/2175.gif?raw=1' width = '250' > |  <img src='./asset/2448.gif?raw=1' width = '250' > |  <img src='./asset/2803.gif?raw=1' width = '250' > | 
 
 
 Unfortunately, the development team will not disclose the detailed process due to security issues. Line Webtoon Company is doing various research using AI, so please show a lot of interest!
